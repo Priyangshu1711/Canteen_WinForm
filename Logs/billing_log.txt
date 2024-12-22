@@ -1,0 +1,3 @@
+2024-12-23 01:22:20 | Customer: AneekGandu | Total Amount: ₹ 30.00 | Remaining Balance: ₹ 57.00
+	Item: Chocolate, Quantity: 3, Item Total: ₹ 30.00
+---------------------------------------
